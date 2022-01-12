@@ -3,8 +3,8 @@ title: "banking"
 author: "Jack McGarry"
 date: "1/12/2022"
 output:
-  html_document: default
-  keep_md: true
+  html_document:
+    keep_md: true
 ---
 
 ```{r setup, include=FALSE}
